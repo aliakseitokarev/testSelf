@@ -1,4 +1,4 @@
-#Aliaksei Tokarau#
+#Aliaksei Tokarau
 Phone number +375(29) ((()))
 **Email nazarov.aliaksey@gmail.com**
 Telegram Naz_arrow
@@ -11,6 +11,10 @@ Example code on the JS:
                 return a + b;
                };
                ```
+
+* [codewars](https://www.codewars.com/users/akulaualiaksei/)
+* [github](https://github.com/akulaualiaksei)
+* [kata](https://www.codewars.com/kata/5300901726d12b80e8000498)
 *Made projects for lessons on YouTube.
 *Graduated from the Belarusian National Technical *University. Awarded a specialty - engineer.
 *I know the English degree А1.
