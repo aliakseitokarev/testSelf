@@ -1,1 +1,1 @@
-# https://aliakseitokarev.github.io/rsschool-cv/cv
+# https://aliakseitokarev.github.io/testSelf/cv
