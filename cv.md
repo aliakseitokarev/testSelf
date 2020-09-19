@@ -8,7 +8,7 @@
 flag](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAYElEQVQoz82TIRaAMAxDsz1isIh57o5FT/QWcwj8BBZTUSx2rdn3P3kRSa01671DVTECSZRSABExLyJiebT5j6oiI0g4YAGAe1t99nHOMmF/Xpd81TrBhEzSLZNEin7hA89/Xdb1M0K3AAAAAElFTkSuQmCC) 
       
 ## 2. Personal Summary
-todo : add info
+todo : add info 123
 
 ## 3. Skills
 I am studying HTML, CSS, JavaScript, Markdown, GitHub.
