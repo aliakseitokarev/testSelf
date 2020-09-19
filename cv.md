@@ -15,10 +15,15 @@ flag](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBI
 const even_or_odd = number => (number % 2 === 0 ? "Even" : "Odd");
 ```
 
-6. Made projects for lessons on YouTube.
-7. Graduated from the Belarusian National Technical University. Awarded a specialty - electrical engineer.
+## 6. Work experience
+---
+HTML5, CSS, Git, JavaScript
+## 7. Education
+--- 
+Graduated from the Belarusian National Technical University. Awarded a specialty - electrical engineer.
 
-# 8. Languages
+## 8. Languages
+---
 English - А2.
 
 [sad]: https://t.me/sadBelarus ':('
