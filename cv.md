@@ -1,9 +1,7 @@
-## Aliaksei Tokarau
-
----
+## Aliaksei Tokarau # ***
 
 ## 1. Contact Information
-Phone number [**+37529 3888036**](tel:+375293888036)  
+Phone number [**+375293888036**](tel:+375293888036)  
    Email [aliaksei.tokarev@gmail.com](aliaksei.tokarev@gmail.com)  
    Telegram [sadBelarus][sad]  
    GitHub [https://github.com/aliakseitokarev](https://github.com/aliakseitokarev)  
