@@ -11,7 +11,7 @@ flag](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAYAAACgu+4kAAAACXBI
 todo : add info
 
 ## 3. Skills
-I am studying HTML, CSS, JavaScript, Markdown, Git, GitHub.
+I am studying HTML, CSS, JavaScript, Markdown, GitHub.
 ## 4. Code examples
 ```javascript
 const even_or_odd = number => (number % 2 === 0 ? "Even" : "Odd");
