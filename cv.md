@@ -1,4 +1,5 @@
-1. Aliaksei Tokarau
+# Aliaksei Tokarau
+
 ---
 ## 2. Contact Information
 Phone number **+37529 3888036**  
@@ -15,7 +16,7 @@ I am studying HTML, CSS, JavaScript, Markdown, Git, GitHub.
 ```javascript
 const even_or_odd = number => (number % 2 === 0 ? "Even" : "Odd");
 ```
-* [codewars](https://www.codewars.com/users/aliakseitokarev)
++ [codewars](https://www.codewars.com/users/aliakseitokarev)
 
 ## 6. Experience
 HTML5, CSS, Git, JavaScript
