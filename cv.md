@@ -1,5 +1,5 @@
-## Aliaksei Tokarau # ***
-
+## Aliaksei Tokarau
+***
 ## 1. Contact Information
 >Phone number [**+375293888036**](tel:+375293888036)  
 >Email [aliaksei.tokarev@gmail.com](aliaksei.tokarev@gmail.com)  
@@ -17,7 +17,7 @@ I am studying HTML, CSS, JavaScript, Markdown, Git, GitHub.
 ```javascript
 const even_or_odd = number => (number % 2 === 0 ? "Even" : "Odd");
 ```
-- [codewars](https://www.codewars.com/users/aliakseitokarev)
+- [Codewars](https://www.codewars.com/users/aliakseitokarev)
 
 ## 5. Experience
 HTML5, CSS, Git, JavaScript
