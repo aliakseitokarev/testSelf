@@ -16,14 +16,11 @@ const even_or_odd = number => (number % 2 === 0 ? "Even" : "Odd");
 ```
 
 ## 6. Work experience
----
 HTML5, CSS, Git, JavaScript
 ## 7. Education
---- 
 Graduated from the Belarusian National Technical University. Awarded a specialty - electrical engineer.
 
 ## 8. Languages
----
 English - А2.
 
 [sad]: https://t.me/sadBelarus ':('
